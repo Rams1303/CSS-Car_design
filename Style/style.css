@@ -268,12 +268,12 @@ hr {
         align-content: space-between;
     }
     .cards {
-        width: 30vw;
+        width: 40vw;
     }
 }
 
 @media only screen and (max-width:800px) {
     .cards {
-        width: 40vw;
+        width: 50vw;
     }
 }

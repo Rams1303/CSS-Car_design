@@ -259,21 +259,3 @@ hr {
     font-size: 1vw;
     text-transform: uppercase;
 }
-
-@media only screen and (max-width:950px) {
-    .container {
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        align-content: space-between;
-    }
-    .cards {
-        width: 40vw;
-    }
-}
-
-@media only screen and (max-width:800px) {
-    .cards {
-        width: 60vw;
-    }
-}

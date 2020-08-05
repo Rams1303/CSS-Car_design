@@ -274,6 +274,6 @@ hr {
 
 @media only screen and (max-width:800px) {
     .cards {
-        width: 50vw;
+        width: 60vw;
     }
 }
